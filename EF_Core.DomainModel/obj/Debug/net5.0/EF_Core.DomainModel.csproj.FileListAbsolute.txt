@@ -1,0 +1,15 @@
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\bin\Debug\net5.0\EF_Core.DomainModel.deps.json
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\bin\Debug\net5.0\EF_Core.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\bin\Debug\net5.0\ref\EF_Core.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\bin\Debug\net5.0\EF_Core.DomainModel.pdb
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.AssemblyInfoInputs.cache
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.AssemblyInfo.cs
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\ref\EF_Core.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.pdb
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\bin\Debug\net5.0\EF_Core.DomainModel.runtimeconfig.json
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\bin\Debug\net5.0\EF_Core.DomainModel.runtimeconfig.dev.json
+C:\Users\Edmilson da Hora\source\repos\EF_Core\EF_Core.DomainModel\obj\Debug\net5.0\EF_Core.DomainModel.genruntimeconfig.cache
